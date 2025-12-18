@@ -10,3 +10,4 @@ dp organization
 dunno
 cyborg
 chip
+ffg fuel

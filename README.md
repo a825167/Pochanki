@@ -14,3 +14,4 @@ ffg fuel
 fluxion
 devo
 dp pic
+deta
